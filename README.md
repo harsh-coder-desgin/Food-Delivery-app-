@@ -40,9 +40,9 @@ Restaurants Dashboard
 
 9. Also food items can delete you have to click on delete button
 
-![Design 2](https://github.com/user-attachments/assets/26d04c40-357b-4274-a7c5-d0f73575baee)
+![Designer (1)](https://github.com/user-attachments/assets/a71cc68b-8b35-44b0-be85-54955b43c0a8)
 
-![Design 3](https://github.com/user-attachments/assets/dfd50633-de2f-4091-9b4c-4f9be3c1e04a)
+![Screenshot 2025-05-04 172332](https://github.com/user-attachments/assets/cf13405b-d279-4716-828c-fc72af783eec)
 
 
 10. User can add food items then click on add food
