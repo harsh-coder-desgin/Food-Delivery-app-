@@ -58,6 +58,28 @@ Restaurants Dashboard
 
 ![Screenshot 2025-05-04 172732](https://github.com/user-attachments/assets/d78a2bea-050e-4a09-bb8b-0f60db0fda47)
 
+12. If you want to  logout click on logout button
+
+![Designer (2)](https://github.com/user-attachments/assets/e80e0777-657d-4efe-8f3e-cc8a3da495ee)
+
+
+13.Create new account in Restaurants Dashboard
+
+![Screenshot 2025-05-04 174104](https://github.com/user-attachments/assets/cc6fc794-dcbe-4232-86ee-5a645c631329)
+
+![Screenshot 2025-05-04 174319](https://github.com/user-attachments/assets/d6736d3a-6c5c-42a7-adf7-55b495e89eca)
+
+14.After click on Add create account Restaurants Dashboard page
+
+![Screenshot 2025-05-04 174341](https://github.com/user-attachments/assets/cf959167-4bd0-4006-b46a-71c0de643b0f)
+
+15.Adding food items
+
+![Screenshot 2025-05-04 174505](https://github.com/user-attachments/assets/b7bb2aa6-d283-464e-a215-72356b9bc189)
+
+![Screenshot 2025-05-04 174523](https://github.com/user-attachments/assets/c914a20c-6ef4-4313-b3e5-15bc3ba44de5)
+
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
