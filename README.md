@@ -1,3 +1,64 @@
+In this project i made food delivery app
+
+Restaurants Dashboard
+
+1.You have to login 
+
+![Screenshot 2025-05-04 171808](https://github.com/user-attachments/assets/a4b93cce-4017-484b-ae5c-bc0d93778f5e)
+
+2.write Email and password to login
+
+![Screenshot 2025-05-04 171837](https://github.com/user-attachments/assets/f0666c07-b3fe-4949-afd8-fe3c8ca9ddc8)
+
+
+3.if email and password was correct it go to restaurants dashboard
+
+![Screenshot 2025-05-04 171919](https://github.com/user-attachments/assets/fdef7fcb-4ea0-44c1-a745-7efadbb2805f)
+
+4.Password was wrong it shows error
+
+![Screenshot 2025-05-04 174817](https://github.com/user-attachments/assets/a4efebba-b7b6-44ae-8bc7-27d03f49c19b)
+
+
+5.if email was not registered it shows error
+
+![Screenshot 2025-05-04 174842](https://github.com/user-attachments/assets/6fc1b925-f904-4f37-891a-3f942b818f89)
+
+
+6.You can edit food items
+
+![Designer](https://github.com/user-attachments/assets/30ba98b9-2a46-4560-b65c-48b428e868f5)
+
+
+7.After edit price click on update food 
+
+![Design](https://github.com/user-attachments/assets/4656ed02-e7d8-4b67-9400-e9ef8e8afd60)
+
+8. You can see it price was updated
+
+![Design 1](https://github.com/user-attachments/assets/2b433981-34ca-41dd-8a51-e8dc9250bcd5)
+
+9. Also food items can delete you have to click on delete button
+
+![Design 2](https://github.com/user-attachments/assets/26d04c40-357b-4274-a7c5-d0f73575baee)
+
+![Design 3](https://github.com/user-attachments/assets/dfd50633-de2f-4091-9b4c-4f9be3c1e04a)
+
+
+10. User can add food items then click on add food
+
+![Design 5](https://github.com/user-attachments/assets/b3f30d57-cd41-435a-a2a4-541e6e95eca7)
+
+![Screenshot 2025-05-04 172411](https://github.com/user-attachments/assets/4db100a0-660e-4f06-8adf-0b817421d2d8)
+
+
+11. Adding food name,price,image and description click on add food
+
+![Screenshot 2025-05-04 172713](https://github.com/user-attachments/assets/22778ba1-f936-4c34-b135-5d9ee748fb2b)
+
+![Screenshot 2025-05-04 172732](https://github.com/user-attachments/assets/d78a2bea-050e-4a09-bb8b-0f60db0fda47)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
