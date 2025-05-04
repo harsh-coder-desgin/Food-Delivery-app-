@@ -1,82 +1,93 @@
-In this project i made food delivery app
+This project is part of my full-stack Food Delivery Web App, featuring separate dashboards for restaurant owners, customers, and delivery partners. Below is a walkthrough of the Restaurant Dashboard functionalities.
 
-Restaurants Dashboard
+Food Delivery App – Restaurant Dashboard
 
-1.You have to login 
+1. Login to Restaurant Dashboard
+Step 1: Login Page
+Enter your registered email and password. 
 
 ![Screenshot 2025-05-04 171808](https://github.com/user-attachments/assets/a4b93cce-4017-484b-ae5c-bc0d93778f5e)
 
-2.write Email and password to login
+Step 2: Enter Email and Password
 
 ![Screenshot 2025-05-04 171837](https://github.com/user-attachments/assets/f0666c07-b3fe-4949-afd8-fe3c8ca9ddc8)
 
 
-3.if email and password was correct it go to restaurants dashboard
+2. Successful Login – Access Dashboard
+If the email and password are correct, you are redirected to the Restaurant Dashboard.
 
 ![Screenshot 2025-05-04 171919](https://github.com/user-attachments/assets/fdef7fcb-4ea0-44c1-a745-7efadbb2805f)
 
 ![Screenshot 2025-05-04 172315](https://github.com/user-attachments/assets/208c2d30-0d54-4678-b68d-d99995f7fed4)
 
 
-4.Password was wrong it shows error
+3. Error Handling
+Incorrect Password
 
 ![Screenshot 2025-05-04 174817](https://github.com/user-attachments/assets/a4efebba-b7b6-44ae-8bc7-27d03f49c19b)
 
 
-5.if email was not registered it shows error
+Email Not Registered
 
 ![Screenshot 2025-05-04 174842](https://github.com/user-attachments/assets/6fc1b925-f904-4f37-891a-3f942b818f89)
 
 
-6.You can edit food items
+4. Edit Food Items
+You can edit existing food items by modifying their details.
 
 ![Designer](https://github.com/user-attachments/assets/30ba98b9-2a46-4560-b65c-48b428e868f5)
 
 
-7.After edit price click on update food 
+After editing, click on Update Food to save changes.
 
 ![Design](https://github.com/user-attachments/assets/4656ed02-e7d8-4b67-9400-e9ef8e8afd60)
 
-8. You can see it price was updated
+Price updated successfully
+
 
 ![Design 1](https://github.com/user-attachments/assets/2b433981-34ca-41dd-8a51-e8dc9250bcd5)
 
-9. Also food items can delete you have to click on delete button
+5. Delete Food Items
+Click the Delete button to remove a food item.
 
 ![Designer (1)](https://github.com/user-attachments/assets/a71cc68b-8b35-44b0-be85-54955b43c0a8)
 
 ![Screenshot 2025-05-04 172332](https://github.com/user-attachments/assets/cf13405b-d279-4716-828c-fc72af783eec)
 
 
-10. User can add food items then click on add food
+6. Add New Food Items
+Click on Add Food to insert new food items.
 
 ![Design 5](https://github.com/user-attachments/assets/b3f30d57-cd41-435a-a2a4-541e6e95eca7)
 
 ![Screenshot 2025-05-04 172411](https://github.com/user-attachments/assets/4db100a0-660e-4f06-8adf-0b817421d2d8)
 
 
-11. Adding food name,price,image and description click on add food
+Fill in the details: name, price, image, and description, then click Add Food.
 
 ![Screenshot 2025-05-04 172713](https://github.com/user-attachments/assets/22778ba1-f936-4c34-b135-5d9ee748fb2b)
 
 ![Screenshot 2025-05-04 172732](https://github.com/user-attachments/assets/d78a2bea-050e-4a09-bb8b-0f60db0fda47)
 
-12. If you want to  logout click on logout button
+ 7. Logout
+Click the Logout button to safely exit the dashboard.
 
 ![Designer (2)](https://github.com/user-attachments/assets/e80e0777-657d-4efe-8f3e-cc8a3da495ee)
 
 
-13.Create new account in Restaurants Dashboard
+ 8. Create a New Restaurant Account
+Go to the sign-up page to create a new restaurant account.
 
 ![Screenshot 2025-05-04 174104](https://github.com/user-attachments/assets/cc6fc794-dcbe-4232-86ee-5a645c631329)
 
 ![Screenshot 2025-05-04 174319](https://github.com/user-attachments/assets/d6736d3a-6c5c-42a7-adf7-55b495e89eca)
 
-14.After click on Add create account Restaurants Dashboard page
+After creating an account, you're redirected to the dashboard:
 
 ![Screenshot 2025-05-04 174341](https://github.com/user-attachments/assets/cf959167-4bd0-4006-b46a-71c0de643b0f)
 
-15.Adding food items
+9. Continue Managing Your Menu
+You can now start adding food items to your restaurant’s menu.
 
 ![Screenshot 2025-05-04 174505](https://github.com/user-attachments/assets/b7bb2aa6-d283-464e-a215-72356b9bc189)
 
