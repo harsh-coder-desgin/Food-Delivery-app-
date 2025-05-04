@@ -15,6 +15,9 @@ Restaurants Dashboard
 
 ![Screenshot 2025-05-04 171919](https://github.com/user-attachments/assets/fdef7fcb-4ea0-44c1-a745-7efadbb2805f)
 
+![Screenshot 2025-05-04 172315](https://github.com/user-attachments/assets/208c2d30-0d54-4678-b68d-d99995f7fed4)
+
+
 4.Password was wrong it shows error
 
 ![Screenshot 2025-05-04 174817](https://github.com/user-attachments/assets/a4efebba-b7b6-44ae-8bc7-27d03f49c19b)
