@@ -93,6 +93,94 @@ You can now start adding food items to your restaurant’s menu.
 
 ![Screenshot 2025-05-04 174523](https://github.com/user-attachments/assets/c914a20c-6ef4-4313-b3e5-15bc3ba44de5)
 
+10.This is user home page and also shown user profile with name
+
+![Screenshot 2025-05-04 194951](https://github.com/user-attachments/assets/20d56da9-3da3-4bfa-bcb8-dcc1ed9232a3)
+
+11.You can see there are many restaurant also restaurant that we recently added
+
+![Screenshot 2025-05-04 195118](https://github.com/user-attachments/assets/3b27dc17-8a1d-46c5-8b8a-ab53cc75bafc)
+
+12.You can search with city name
+
+![Screenshot 2025-05-04 195015](https://github.com/user-attachments/assets/2544a9ee-4861-4698-91a7-b4dc2b4698bb)
+
+13.You can search with restaurant name
+
+![Screenshot 2025-05-04 195044](https://github.com/user-attachments/assets/c76cbc79-67c5-44b2-b8d4-9cf451efd420)
+
+14.Click on any restaurant and show detail of restaurant 
+
+![Screenshot 2025-05-04 195149](https://github.com/user-attachments/assets/4b07af52-e040-47c4-a184-dab02eaadb97)
+
+15.click on order now 
+
+![Designer (3)](https://github.com/user-attachments/assets/2e7bbb60-e53d-4a3f-b7c9-a8abe78a3c0a)
+
+![Screenshot 2025-05-04 195214](https://github.com/user-attachments/assets/5a75c59c-f43d-44db-901d-d8f770d2852f)
+
+16.Now click on cart 
+
+![Designer (4)](https://github.com/user-attachments/assets/deaf2fcb-61ca-49a6-9360-1c2aef100e63)
+
+17.Your food item name and price and bill has shown.
+![Screenshot 2025-05-04 195246](https://github.com/user-attachments/assets/a9c8e80a-fd46-4ea2-8ac9-b01de36ace6e)
+
+18 Click on  Place Order
+
+![Design 11](https://github.com/user-attachments/assets/2269a61b-ee68-44e1-b99f-c6fd638db548)
+
+19.User detail and bill shown and also payment method cash on delivery click on place your order now 
+
+![Design 12](https://github.com/user-attachments/assets/01178d8d-53cf-4773-906c-5970dd632841)
+20.After click alert order done has shown click ok 
+
+![Screenshot 2025-05-04 195342](https://github.com/user-attachments/assets/0516cc3d-2605-48a4-9488-4a99e081c887)
+
+21. after click ok  You will  now redirect to your profile
+
+![Screenshot 2025-05-04 195421](https://github.com/user-attachments/assets/4438588f-6031-46f0-af42-320c22241513)
+
+22. This is which we order is in the last and the status was pending this status was update as devlivery partner update.
+![Screenshot 2025-05-04 195410](https://github.com/user-attachments/assets/048dbd87-3ec4-4864-9727-1b1900a98595)
+
+23.as you can see cart was remove after user place order
+![Screenshot 2025-05-04 204739](https://github.com/user-attachments/assets/0d49f285-8e22-49b7-a0cf-1e6453cd26b4)
+
+24. if you want to log out click on logout Buttom 
+
+![Design 13](https://github.com/user-attachments/assets/b0d03589-8a7b-4e1f-b7f0-2ee8253548c1)
+
+25.Here is the login page
+
+![Screenshot 2025-05-04 205220](https://github.com/user-attachments/assets/12993190-8b9b-41a9-9747-605123295391)
+
+26.if user enter wrong password shows error
+![Screenshot 2025-05-04 205511](https://github.com/user-attachments/assets/06e39aaf-260b-4257-8cd5-380cbbd9b803)
+
+
+27.if user enter email that not registerd  shows error
+![Screenshot 2025-05-04 205535](https://github.com/user-attachments/assets/524dbf2d-0a56-46a2-a852-209f9641c5ae)
+
+28. if you enter correct email and password user redirect to home page
+![Screenshot 2025-05-04 205450](https://github.com/user-attachments/assets/39deb13a-3c71-4516-8afd-3be985a5b013)
+
+![Screenshot 2025-05-04 205553](https://github.com/user-attachments/assets/aa18a176-1f5a-4e6b-9f1d-d1a4f940199c)
+
+29.User can create account
+
+![Screenshot 2025-05-04 205702](https://github.com/user-attachments/assets/760fdb7e-b030-4c3b-91cd-663afdee3427)
+
+30.Fill the form then click on sign up
+![Screenshot 2025-05-04 205902](https://github.com/user-attachments/assets/94941d2b-1041-4d83-b574-e262e71065e6)
+
+31.After click on sign up user redirect home page
+![Screenshot 2025-05-04 210051](https://github.com/user-attachments/assets/f64cacbd-71ee-484f-a67b-50029be94871)
+
+
+32.click on profile user name
+![Designer (5)](https://github.com/user-attachments/assets/02ebf697-21a2-4963-940d-148c4a893cd1)
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
