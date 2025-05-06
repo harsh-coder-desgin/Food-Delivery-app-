@@ -1,4 +1,4 @@
-This project is part of my full-stack Food Delivery Web App, featuring separate dashboards for restaurant owners, customers, and delivery partners. Below is a walkthrough of the Restaurant Dashboard functionalities.
+This project is part of my  Food Delivery Web App, featuring separate dashboards for restaurant owners, customers, and delivery partners. Below is a walkthrough of the Restaurant Dashboard functionalities.
 
 Food Delivery App – Restaurant Dashboard
 
