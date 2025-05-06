@@ -145,7 +145,7 @@ You can now start adding food items to your restaurant’s menu.
 ![Screenshot 2025-05-04 195410](https://github.com/user-attachments/assets/048dbd87-3ec4-4864-9727-1b1900a98595)
 
 23.as you can see cart was remove after user place order
-![Screenshot 2025-05-04 204739](https://github.com/user-attachments/assets/0d49f285-8e22-49b7-a0cf-1e6453cd26b4)
+![Design 20](https://github.com/user-attachments/assets/50e0a13f-7509-49b3-a479-b9ef69e15706)
 
 24. if you want to log out click on logout Buttom 
 
@@ -206,7 +206,7 @@ You can now start adding food items to your restaurant’s menu.
 
 ![Design 16](https://github.com/user-attachments/assets/9a267be9-cde9-4961-b571-095f3c5aec8a)
 
-37.Login to Deilvery dashboarf
+37.Login to Deilvery dashboard
 ![Screenshot 2025-05-04 210409](https://github.com/user-attachments/assets/a2f73028-c5c0-4edd-866c-52b81a1ad656)
 
 ![Screenshot 2025-05-04 210447](https://github.com/user-attachments/assets/7f18de0d-3d3e-4690-9c08-3ef90770c680)
