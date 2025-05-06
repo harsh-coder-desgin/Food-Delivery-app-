@@ -202,7 +202,7 @@ You can now start adding food items to your restaurant’s menu.
 
 ![Screenshot 2025-05-04 210245](https://github.com/user-attachments/assets/f42b60e3-9106-4993-ad8b-e38e2988061d)
 
-36.You go Deilvery dashboard
+36.Deilvery partner can  go Deilvery dashboard
 
 ![Design 16](https://github.com/user-attachments/assets/9a267be9-cde9-4961-b571-095f3c5aec8a)
 
