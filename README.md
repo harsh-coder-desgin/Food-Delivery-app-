@@ -172,14 +172,85 @@ You can now start adding food items to your restaurant’s menu.
 ![Screenshot 2025-05-04 205702](https://github.com/user-attachments/assets/760fdb7e-b030-4c3b-91cd-663afdee3427)
 
 30.Fill the form then click on sign up
-![Screenshot 2025-05-04 205902](https://github.com/user-attachments/assets/94941d2b-1041-4d83-b574-e262e71065e6)
+![Screenshot 2025-05-04 210031](https://github.com/user-attachments/assets/bb3529a9-6ecd-410d-acba-45bfa0434ac9)
 
 31.After click on sign up user redirect home page
 ![Screenshot 2025-05-04 210051](https://github.com/user-attachments/assets/f64cacbd-71ee-484f-a67b-50029be94871)
 
 
 32.click on profile user name
-![Designer (5)](https://github.com/user-attachments/assets/02ebf697-21a2-4963-940d-148c4a893cd1)
+![Designer (6)](https://github.com/user-attachments/assets/0b1ecd7c-50da-474d-b664-67a2f5cf2607)
+
+33.This is user profile
+![Screenshot 2025-05-04 210105](https://github.com/user-attachments/assets/fb5be01c-4a4f-47cd-a4dc-8ad05c610a37)
+
+34.Ordering food items 
+
+![Screenshot 2025-05-04 210051](https://github.com/user-attachments/assets/8e2d8f35-36e8-44bd-8a20-bdbd29dca230)
+
+
+![Screenshot 2025-05-04 210141](https://github.com/user-attachments/assets/117b7c81-2306-491c-998d-c07edb01c7cd)
+
+![Screenshot 2025-05-04 210153](https://github.com/user-attachments/assets/4d74cd37-c95b-4b43-a11e-6d5b99d1dc3c)
+
+![Screenshot 2025-05-04 210209](https://github.com/user-attachments/assets/038601d5-4776-46c5-a923-3bf1055c0523)
+
+![Screenshot 2025-05-04 210227](https://github.com/user-attachments/assets/bca70ea1-69f3-41a6-ba29-b05c57e7ae88)
+
+
+35.As you can see if delivery partner not availabe then it show alert
+
+![Screenshot 2025-05-04 210245](https://github.com/user-attachments/assets/f42b60e3-9106-4993-ad8b-e38e2988061d)
+
+36.You go Deilvery dashboard
+
+![Design 16](https://github.com/user-attachments/assets/9a267be9-cde9-4961-b571-095f3c5aec8a)
+
+37.Login to Deilvery dashboarf
+![Screenshot 2025-05-04 210409](https://github.com/user-attachments/assets/a2f73028-c5c0-4edd-866c-52b81a1ad656)
+
+![Screenshot 2025-05-04 210447](https://github.com/user-attachments/assets/7f18de0d-3d3e-4690-9c08-3ef90770c680)
+
+38.After login you can see home page with Order list 
+![Screenshot 2025-05-04 210833](https://github.com/user-attachments/assets/60bf7b9a-dd6b-4db7-8762-a84f6e1e8285)
+
+39.If delivery partner want to upated status jsut click on order
+
+![Screenshot 2025-05-04 210833](https://github.com/user-attachments/assets/3c7bf102-5701-47f7-8ab7-399ee1b4296d)
+
+40.Delivery partner can update status on the way,failed and delivery 
+![Screenshot 2025-05-04 210845](https://github.com/user-attachments/assets/feab1e81-3517-4cd8-addf-8354d5acbf61)
+41.If want to update click on any on the way,failed and delivery  button
+![Design 17](https://github.com/user-attachments/assets/d1791544-62e1-46d5-a233-38408c897e3a)
+
+![Screenshot 2025-05-04 210858](https://github.com/user-attachments/assets/0eeb0218-978a-4b19-b860-b003a7a91c8d)
+
+42.As you can see the status also this status was updated in customer profile also
+![Screenshot 2025-05-04 210910](https://github.com/user-attachments/assets/e71c09c3-32c3-4a60-9d0d-e8d81d0b782d)
+
+43.Also delivey partner can create account
+
+![Screenshot 2025-05-04 211124](https://github.com/user-attachments/assets/e1058249-8664-4dde-b5c1-b5e8e0feb38a)
+
+44. After create account it redirect to delivery dashboard
+![Screenshot 2025-05-04 211147](https://github.com/user-attachments/assets/66f9f653-8885-49d8-a61c-8e853ce86cf6)
+
+45.After deliverry partner avaliable it customer can order 
+![Screenshot 2025-05-04 211208](https://github.com/user-attachments/assets/04fa8824-a52e-4816-bbbe-85c5f763e631)
+46.This is customer profile
+![Screenshot 2025-05-04 211223](https://github.com/user-attachments/assets/7a43b400-9353-42e1-bfd9-ad810f965287)
+47.This is Delivery partner dashboard it get 1 order list
+![Screenshot 2025-05-04 211240](https://github.com/user-attachments/assets/402faa44-8bcb-409d-9212-f824ec6923ff)
+
+48. Delivery partner can update status
+![Screenshot 2025-05-04 211252](https://github.com/user-attachments/assets/80c1a75c-1ae8-4349-bdcd-2b6c6ef26aac)
+
+![Screenshot 2025-05-04 211304](https://github.com/user-attachments/assets/9a2e83ec-88f2-4793-9a47-e5f42543c679)
+
+![Screenshot 2025-05-04 211318](https://github.com/user-attachments/assets/ffcbef51-c997-4d4a-b911-3699aaf8a959)
+
+
+
 
 
 
