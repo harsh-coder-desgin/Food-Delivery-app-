@@ -1,4 +1,4 @@
-This project is part of my  Food Delivery Web App, featuring separate dashboards for restaurant owners, customers, and delivery partners. Below is a walkthrough of the Restaurant Dashboard functionalities.
+This project is my  Food Delivery Web App, featuring separate dashboards for restaurant owners, customers, and delivery partners. Below is a walkthrough of the Restaurant Dashboard functionalities.
 
 Food Delivery App – Restaurant Dashboard
 
@@ -67,6 +67,7 @@ Fill in the details: name, price, image, and description, then click Add Food.
 
 ![Screenshot 2025-05-04 172713](https://github.com/user-attachments/assets/22778ba1-f936-4c34-b135-5d9ee748fb2b)
 
+After click on Add food it redirect to home page
 ![Screenshot 2025-05-04 172732](https://github.com/user-attachments/assets/d78a2bea-050e-4a09-bb8b-0f60db0fda47)
 
  7. Logout
@@ -119,8 +120,7 @@ Clicking on a restaurant shows its full details, including name, description, an
 
 ![Screenshot 2025-05-04 195149](https://github.com/user-attachments/assets/4b07af52-e040-47c4-a184-dab02eaadb97)
 
-15.Add to Cart
-Click on Order Now to add items to your cart.
+15.Click on Order Now to add items to your cart.
 
 
 
@@ -128,44 +128,38 @@ Click on Order Now to add items to your cart.
 
 ![Screenshot 2025-05-04 195214](https://github.com/user-attachments/assets/5a75c59c-f43d-44db-901d-d8f770d2852f)
 
-16.View Cart
-Click on the cart icon to view all the items you’ve added.
+16.Click on the cart icon to view all the items you’ve added.
 
 ![Designer (4)](https://github.com/user-attachments/assets/deaf2fcb-61ca-49a6-9360-1c2aef100e63)
 
-17.Order Summary
-See item names, prices, and the total bill.
+17.See item names, prices, and the total bill.
 
 
 
 ![Screenshot 2025-05-04 195246](https://github.com/user-attachments/assets/a9c8e80a-fd46-4ea2-8ac9-b01de36ace6e)
 
-18. Place Order
-Click Place Order to continue.
+18.Click Place Order to continue.
 
 ![Design 11](https://github.com/user-attachments/assets/2269a61b-ee68-44e1-b99f-c6fd638db548)
 
-19.User Info & Payment
-Displays user information and bill. Choose Cash on Delivery, then confirm the order.
+19.Displays user information and bill. Choose Cash on Delivery, then confirm the order.
 
 ![Design 12](https://github.com/user-attachments/assets/01178d8d-53cf-4773-906c-5970dd632841)
 
-20.Order Confirmation
-A confirmation alert appears once the order is placed successfully.
+20. A confirmation alert appears once the order is placed successfully.
 
 ![Screenshot 2025-05-04 195342](https://github.com/user-attachments/assets/0516cc3d-2605-48a4-9488-4a99e081c887)
 
-21. Redirect to Profile Page
-After clicking "OK" on the order confirmation, the user is redirected to their profile page.
+21. After clicking "OK" on the order confirmation, the user is redirected to their profile page.
 
 
 ![Screenshot 2025-05-04 195421](https://github.com/user-attachments/assets/4438588f-6031-46f0-af42-320c22241513)
 
-22.Order Status - Pending
+22.Order Status - Pending:
 The most recent order appears at the top with a Pending status. This status will update as the delivery partner progresses with the delivery.
 ![Screenshot 2025-05-04 195410](https://github.com/user-attachments/assets/048dbd87-3ec4-4864-9727-1b1900a98595)
 
-23.Cart Cleared After Order
+23.Cart Cleared After Order:
 After the order is placed, the cart is automatically cleared to prevent duplicate orders.
 
 
@@ -173,13 +167,13 @@ After the order is placed, the cart is automatically cleared to prevent duplicat
 
 ![Design 20](https://github.com/user-attachments/assets/50e0a13f-7509-49b3-a479-b9ef69e15706)
 
-24.Logout Functionality
+24.Logout Functionality:
 To log out of the application, simply click on the Logout button.
 
 
 ![Design 13](https://github.com/user-attachments/assets/b0d03589-8a7b-4e1f-b7f0-2ee8253548c1)
 
-25. Login Page
+25. Login Page:
 Here's the login screen where users can sign in with their credentials.
 
 
@@ -187,19 +181,19 @@ Here's the login screen where users can sign in with their credentials.
 
 ![Screenshot 2025-05-04 205220](https://github.com/user-attachments/assets/12993190-8b9b-41a9-9747-605123295391)
 
-26. Incorrect Password Error
+26. Incorrect Password Error:
 If the user enters a valid email but an incorrect password, an error message is displayed.
 
 ![Screenshot 2025-05-04 205511](https://github.com/user-attachments/assets/06e39aaf-260b-4257-8cd5-380cbbd9b803)
 
 
-27.Unregistered Email Error
+27.Unregistered Email Error:
 If a user tries to log in with an email that isn’t registered, an appropriate error is shown.
 
 
 ![Screenshot 2025-05-04 205535](https://github.com/user-attachments/assets/524dbf2d-0a56-46a2-a852-209f9641c5ae)
 
-28.Successful Login
+28.Successful Login:
 If the entered credentials are correct, the user is redirected to the homepage.
 
 
@@ -209,34 +203,34 @@ If the entered credentials are correct, the user is redirected to the homepage.
 
 ![Screenshot 2025-05-04 205553](https://github.com/user-attachments/assets/aa18a176-1f5a-4e6b-9f1d-d1a4f940199c)
 
-29.Account Creation
+29.Account Creation:
 New users can create an account by clicking on the Sign Up link.
 
 
 ![Screenshot 2025-05-04 205702](https://github.com/user-attachments/assets/760fdb7e-b030-4c3b-91cd-663afdee3427)
 
-30.Sign-Up Form
+30.Sign-Up Form:
 Users can fill in their details and click Sign Up to create a new account.
 
 
 ![Screenshot 2025-05-04 210031](https://github.com/user-attachments/assets/bb3529a9-6ecd-410d-acba-45bfa0434ac9)
 
-31. Redirect to Home After Sign-Up
+31. Redirect to Home After Sign-Up:
 After signing up, the user is automatically redirected to the homepage.
 ![Screenshot 2025-05-04 210051](https://github.com/user-attachments/assets/f64cacbd-71ee-484f-a67b-50029be94871)
 
 
-32. Access User Profile
+32. Access User Profile:
 Click on the username to access the user profile.
 ![Designer (6)](https://github.com/user-attachments/assets/0b1ecd7c-50da-474d-b664-67a2f5cf2607)
 
-33. User Profile Page
+33. User Profile Page:
 The profile page displays user details and their previous orders.
 
 
 ![Screenshot 2025-05-04 210105](https://github.com/user-attachments/assets/fb5be01c-4a4f-47cd-a4dc-8ad05c610a37)
 
-34.Placing a New Food Order
+34.Placing a New Food Order:
 Users can browse restaurants, select food items, and place a new order.
 
 ![Screenshot 2025-05-04 210051](https://github.com/user-attachments/assets/8e2d8f35-36e8-44bd-8a20-bdbd29dca230)
@@ -251,71 +245,71 @@ Users can browse restaurants, select food items, and place a new order.
 ![Screenshot 2025-05-04 210227](https://github.com/user-attachments/assets/bca70ea1-69f3-41a6-ba29-b05c57e7ae88)
 
 
-35.No Delivery Partner Available
+35.No Delivery Partner Available:
 If no delivery partner is available, an alert is shown to inform the user.
 
 ![Screenshot 2025-05-04 210245](https://github.com/user-attachments/assets/f42b60e3-9106-4993-ad8b-e38e2988061d)
 
-36.Access Delivery Partner Dashboard
+36.Access Delivery Partner Dashboard:
 Delivery partners can switch to the Delivery Dashboard to manage orders.
 
 ![Design 16](https://github.com/user-attachments/assets/9a267be9-cde9-4961-b571-095f3c5aec8a)
 
-37. Login as Delivery Partner
+37. Login as Delivery Partner:
 Delivery partners can log in using their credentials.
 ![Screenshot 2025-05-04 210409](https://github.com/user-attachments/assets/a2f73028-c5c0-4edd-866c-52b81a1ad656)
 
 ![Screenshot 2025-05-04 210447](https://github.com/user-attachments/assets/7f18de0d-3d3e-4690-9c08-3ef90770c680)
 
-38.Delivery Home Page with Order List
+38.Delivery Home Page with Order List:
 Once logged in, they see the dashboard with all pending delivery orders.
 
  
 ![Screenshot 2025-05-04 210833](https://github.com/user-attachments/assets/60bf7b9a-dd6b-4db7-8762-a84f6e1e8285)
 
-39.Click on Order to Update Status
+39.Click on Order to Update Status:
 Delivery partners can click on any order to view or update its status.
 
 ![Screenshot 2025-05-04 210833](https://github.com/user-attachments/assets/3c7bf102-5701-47f7-8ab7-399ee1b4296d)
 
-40.Update Order Status
+40.Update Order Status:
 They can set the status as "On The Way", "Delivered", or "Failed" depending on the delivery status.
 ![Screenshot 2025-05-04 210845](https://github.com/user-attachments/assets/feab1e81-3517-4cd8-addf-8354d5acbf61)
 
-41. Update Order Status Buttons
+41. Update Order Status Buttons:
 Delivery partners can update order status by clicking On the Way, Failed, or Delivered.
 ![Design 17](https://github.com/user-attachments/assets/d1791544-62e1-46d5-a233-38408c897e3a)
 
 ![Screenshot 2025-05-04 210858](https://github.com/user-attachments/assets/0eeb0218-978a-4b19-b860-b003a7a91c8d)
 
-42. Status Sync with Customer Profile
+42. Status Sync with Customer Profile:
 Once the status is updated, it reflects in the customer’s order history as well.
 ![Screenshot 2025-05-04 210910](https://github.com/user-attachments/assets/e71c09c3-32c3-4a60-9d0d-e8d81d0b782d)
 
-43.Delivery Partner Sign-Up
+43.Delivery Partner Sign-Up:
 Delivery partners can create their own accounts via a simple sign-up form.
 
 
 
 ![Screenshot 2025-05-04 211124](https://github.com/user-attachments/assets/e1058249-8664-4dde-b5c1-b5e8e0feb38a)
 
-44. Redirect to Delivery Dashboard After Signup
+44. Redirect to Delivery Dashboard After Signup:
 After successful registration, they are redirected to the Delivery Dashboard.
 
 
 ![Screenshot 2025-05-04 211147](https://github.com/user-attachments/assets/66f9f653-8885-49d8-a61c-8e853ce86cf6)
 
-45.Delivery Partner Availability Enables Ordering
+45.Delivery Partner Availability Enables Ordering:
 Once a delivery partner is active, customers can proceed with placing orders.
 ![Screenshot 2025-05-04 211208](https://github.com/user-attachments/assets/04fa8824-a52e-4816-bbbe-85c5f763e631)
-46.Customer Profile with Updated Orders
+46.Customer Profile with Updated Orders:
 The customer profile reflects updated order statuses and order history.
 ![Screenshot 2025-05-04 211223](https://github.com/user-attachments/assets/7a43b400-9353-42e1-bfd9-ad810f965287)
-47. Delivery Partner Sees Incoming Orders
+47. Delivery Partner Sees Incoming Orders:
 The Delivery Partner dashboard shows new orders available for delivery.
 ![Screenshot 2025-05-04 211240](https://github.com/user-attachments/assets/402faa44-8bcb-409d-9212-f824ec6923ff)
 
-48.Status Update Workflow
+48.Status Update Workflow:
 Delivery partners can choose the current status from available options.
 ![Screenshot 2025-05-04 211252](https://github.com/user-attachments/assets/80c1a75c-1ae8-4349-bdcd-2b6c6ef26aac)
 
@@ -323,13 +317,13 @@ Delivery partners can choose the current status from available options.
 
 ![Screenshot 2025-05-04 211318](https://github.com/user-attachments/assets/ffcbef51-c997-4d4a-b911-3699aaf8a959)
 
-49. Customer Profile Status Sync
+49. Customer Profile Status Sync:
 The updated delivery status also shows in the customer's dashboard.
 
 
 ![Screenshot 2025-05-06 172111](https://github.com/user-attachments/assets/851fac38-556b-404f-bde8-372141f288d2)
 
-50.Guest Browsing Enabled
+50.Guest Browsing Enabled:
 Customers can browse the app without logging in.
 
 
@@ -337,7 +331,7 @@ Customers can browse the app without logging in.
 
 ![Screenshot 2025-05-06 172221](https://github.com/user-attachments/assets/26a160fb-fcb0-42ce-971a-75d51b5b7057)
 
-51.Cart Restriction - One Restaurant Only
+51.Cart Restriction - One Restaurant Only:
 Customers can add items from only one restaurant at a time.
 
 
@@ -345,20 +339,20 @@ Customers can add items from only one restaurant at a time.
 
 ![Screenshot 2025-05-06 172528](https://github.com/user-attachments/assets/c17b44a4-e61f-444e-9471-53a163bc56a1)
 
-52.Example: Cart with 3 Items
+52.Example: Cart with 3 Items:
 The cart view showing 3 items from a single restaurant.
 
 
 
 ![Designer (7)](https://github.com/user-attachments/assets/60ed6114-6194-4e1a-8391-b73f9ced1c74)
-53. Adding from Different Restaurant Resets Cart
+53. Adding from Different Restaurant Resets Cart:
 If a user tries to add items from another restaurant, the cart resets.
 
 
 ![Screenshot 2025-05-06 172606](https://github.com/user-attachments/assets/ce668e46-d0ef-4002-a9c4-24e7f86b3ee3)
 ![Designer (8)](https://github.com/user-attachments/assets/d094c10a-5f56-4f00-ac1d-cd5541e2724d)
 
-54. Must Login to Place Order
+54. Must Login to Place Order:
 Guests are redirected to the login page if they attempt to place an order.
 
 ![Screenshot 2025-05-06 172207](https://github.com/user-attachments/assets/b3309b18-5ea6-44d2-b27a-c394f8f55974)
@@ -366,7 +360,7 @@ Guests are redirected to the login page if they attempt to place an order.
 ![Screenshot 2025-05-06 172254](https://github.com/user-attachments/assets/30d0b07c-54ac-44c2-86b9-cb4c70f78d5f)
 ![Screenshot 2025-05-06 172310](https://github.com/user-attachments/assets/90c59a92-08c7-4071-a9ab-54e834a08383)
 ![Screenshot 2025-05-06 172326](https://github.com/user-attachments/assets/7422f22f-ba48-44e6-bd13-4522b015e565)
-55. Redirected to User Details & Billing
+55. Redirected to User Details & Billing:
 After successful login, users are taken to the order details and billing page.
 ![Screenshot 2025-05-06 172814](https://github.com/user-attachments/assets/92c09fbe-e281-4b09-aad4-66764242fb40)
 ![Screenshot 2025-05-06 172830](https://github.com/user-attachments/assets/d82b5a02-cb3e-44f1-9867-25a4567befe8)
