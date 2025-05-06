@@ -249,9 +249,36 @@ You can now start adding food items to your restaurant’s menu.
 
 ![Screenshot 2025-05-04 211318](https://github.com/user-attachments/assets/ffcbef51-c997-4d4a-b911-3699aaf8a959)
 
+49.This status was also updaetd in customer profile
+![Screenshot 2025-05-06 172111](https://github.com/user-attachments/assets/851fac38-556b-404f-bde8-372141f288d2)
 
+50.customer can access website without login or sign in 
+![Screenshot 2025-05-06 172207](https://github.com/user-attachments/assets/f863e538-dd3f-4154-8719-1f2bb097f62c)
 
+![Screenshot 2025-05-06 172221](https://github.com/user-attachments/assets/26a160fb-fcb0-42ce-971a-75d51b5b7057)
 
+51.customer can order only in one restaurant
+![Screenshot 2025-05-06 172518](https://github.com/user-attachments/assets/5c73a59b-533b-448c-8910-90c3c5d26140)
+
+![Screenshot 2025-05-06 172528](https://github.com/user-attachments/assets/c17b44a4-e61f-444e-9471-53a163bc56a1)
+
+52.This cart has 3 food items for one restaurant
+
+![Designer (7)](https://github.com/user-attachments/assets/60ed6114-6194-4e1a-8391-b73f9ced1c74)
+53.If customer try to add food items in different restaurant the cart will reset
+![Screenshot 2025-05-06 172606](https://github.com/user-attachments/assets/ce668e46-d0ef-4002-a9c4-24e7f86b3ee3)
+![Designer (8)](https://github.com/user-attachments/assets/d094c10a-5f56-4f00-ac1d-cd5541e2724d)
+
+54.if customer try to order with out login it redirect to login
+
+![Screenshot 2025-05-06 172207](https://github.com/user-attachments/assets/b3309b18-5ea6-44d2-b27a-c394f8f55974)
+![Screenshot 2025-05-06 172241](https://github.com/user-attachments/assets/2901e9c0-b946-40b7-b606-e3cf0eb309df)
+![Screenshot 2025-05-06 172254](https://github.com/user-attachments/assets/30d0b07c-54ac-44c2-86b9-cb4c70f78d5f)
+![Screenshot 2025-05-06 172310](https://github.com/user-attachments/assets/90c59a92-08c7-4071-a9ab-54e834a08383)
+![Screenshot 2025-05-06 172326](https://github.com/user-attachments/assets/7422f22f-ba48-44e6-bd13-4522b015e565)
+55. After login it redirect to user detail and bill
+![Screenshot 2025-05-06 172814](https://github.com/user-attachments/assets/92c09fbe-e281-4b09-aad4-66764242fb40)
+![Screenshot 2025-05-06 172830](https://github.com/user-attachments/assets/d82b5a02-cb3e-44f1-9867-25a4567befe8)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
