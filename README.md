@@ -53,7 +53,6 @@ A frontend-focused **Food Delivery Web Application** with basic MongoDB integrat
 
 ---
 
-## 📌 Note
 
 ## 📌 Note
 
