@@ -55,6 +55,9 @@ A frontend-focused **Food Delivery Web Application** with basic MongoDB integrat
 
 ## 📌 Note
 
-This is not a full-stack project. Only the frontend interacts with MongoDB to store and retrieve data. No backend APIs or server logic are used. Built as part of my portfolio for job applications.
+## 📌 Note
+
+This is a **full-stack** project using **Next.js API routes** for backend logic. The frontend interacts with MongoDB through custom API endpoints like:
+
 
 ---
